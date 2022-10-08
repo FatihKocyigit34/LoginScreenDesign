@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">C4F0 Software</string>
+    <string name="email">Email:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="sifre">Şifre:</string>
+    <string name="sifremi_unuttum">Şifremi Unuttum</string>
+    <string name="sifre_yazi">Şifre</string>
+</resources>
